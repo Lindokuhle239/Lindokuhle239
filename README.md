@@ -82,12 +82,10 @@
 
 ---
 
-<!-- Animated Snake Contribution Chart -->
+<!-- Animation-->
 <p align="center">
-  <img src="https://github.com/Lindokuhle239/Lindokuhle239/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://octodex.github.com/images/welcometocat.png" width="250" alt="Octocat waving hi">
 </p>
-
-<!-- Add Snake workflow if you'd like the animated SVG -->
 
 ---
 
