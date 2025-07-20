@@ -1,13 +1,10 @@
-<!-- GitHub Profile README for Lindokuhle Mdlalose -->
+# Hi there 👋🏾, I'm Lindokuhle Mdlalose 
 
-# 👋🏾 Hey there! I'm Lindokuhle Mdlalose
-
-### 🚀 Final-Year Computer Science & Computer Engineering Student @ University of Cape Town  
-### 💻 Aspiring Software Engineer | Embedded Systems Enthusiast | ML Explorer | Low-level Tinkerer
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=36BCF7&width=1000&lines=🚀Final+Year+Computer+Science+%26+Computer+Engineering+Student+@UCT;💻Aspiring+Software+Engineer+|+Embedded+Systems+Enthusiast+|+ML+Explorer;🌹Lover+of+Code%2C+Coffee%2C+and+Low-Level+Power;👷‍♂️Always+Learning+and+Always+Building) 
 
 ---
 
-> "Driven by curiosity. Anchored in grit. Building what's next, one bug fix at a time."
+ "Driven by curiosity. Anchored in grit. Building what's next, one bug fix at a time."
 
 ---
 
@@ -77,14 +74,14 @@
 
 ## 🎉 Fun Fact
 
-> I debug my code by staring at it until it cries and tells me what’s wrong.  
-> Spoiler: it never does. I keep grinding anyway. 😎
+I debug my code by staring at it until it cries and tells me what’s wrong.  
+Spoiler: it never does. I keep grinding anyway. 😎
 
 ---
 
 <!-- Animation-->
 <p align="center">
-  <img src="https://octodex.github.com/images/welcometocat.png" width="250" alt="Octocat waving hi">
+  <img src="https://octodex.github.com/images/mummytocat.gif" width="250" alt="Octocat waving hi">
 </p>
 
 ---
@@ -93,3 +90,6 @@
 
 Want to collaborate on something cool, nerd out over systems, or co-build a project?
 **DM me — let’s do it.**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lindokuhle239&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
