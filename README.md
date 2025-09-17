@@ -13,7 +13,7 @@
 - 🎓 Final-year CS & Computer Engineering student at UCT
 - 🛠️ Strong foundations in **Networking, Operating Systems, C++, Machine Learning, and Embedded Systems**
 - ⚙️ Learning to master both **low-level performance** and **high-level design**
-- 🤖 Currently building a **machine learning-based anomaly detection system** for network traffic (NetMonX)
+- 🤖 Currently building an AI Content Detection web application for my final year project.
 - 💡 I believe in learning by **building, breaking, and rebuilding**. The best code is not just correct—it’s elegant.
 - ☕ Powered by late-night coffee, fire playlists, and **never giving up**.
 
